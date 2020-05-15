@@ -7,3 +7,6 @@ This project has a branch that contains the whole process in case you want to se
 
 ## Demo
 To try you only have to run manage.py
+
+### Notes
+Este es un CRUD básico pero con la creatividad correcta puedes registrar lo que quieras 
