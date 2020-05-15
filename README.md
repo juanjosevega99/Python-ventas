@@ -1,2 +1,3 @@
-# Python-ventas
-Proyecto de ventas en Python
+# Status Ventas
+Create a record of your sales.
+In basic programing in terminal.
